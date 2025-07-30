@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap');
+
+
+
+body {
+    background-color: #fffff0;
+    font-family: Merienda;
+}
+
+h2 {
+    color: #ff9b18;
+    font-size: xx-large;
+    font-weight: 600;
+    letter-spacing: 0.75rem;
+    line-height: 1;
+    font-family: Monoton;
+}
+
+h1 {
+    color: #000000;
+    font-size: xxx-large;
+    font-weight: 300;
+    letter-spacing: 1rem;
+    line-height: 1;
+    font-family: Monoton;
+}
+
+span {
+    color: #978266;
+}
+
+h4 {
+    font-weight: 600;
+    letter-spacing: 0.75rem;
+    font-family: Monoton;
+    text-align: right;
+    color: #3c787e;
+    font-size: xxx-large;
+    margin: 1.5rem;
+}
+
+.card {
+    height: auto;
+    width: 45%;
+    border: 0.25rem double #c0c0c0;
+    border-radius: 1.5rem;
+    padding: 1rem;
+    margin: 0.75rem;
+    background-color: #f0f8ff;
+}
+
+img {
+    width: 100%;
+    border-radius: 1.5rem;
+}
+
+#pets {
+    display: flex; 
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+h3 {
+    color: #ff7f50;
+    text-align: center;
+    font-size: xx-large;
+    font-family: Monoton;
+    font-weight: 400;
+    letter-spacing: 0.5rem;
+}
+
+p {
+    color: #1f6464;
+    text-align: start;
+    font-size: 2rem;
+}
+
+.card:hover {
+    box-shadow: 1rem 2rem 5rem #000000;
+    /* background-color: #f5f5dc; */
+}
+
+img:hover {
+    /* box-shadow: 0.5rem 0.75rem 4rem #778899; */
+    box-shadow: 0.75rem 1.25rem 1.75rem #192531;
+    cursor: pointer;
+}
+
+
+@media (max-width: 1310px) {
+    .card {
+        width: 85%;
+    }
+}
