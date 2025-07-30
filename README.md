@@ -16,8 +16,10 @@ This is a simple and elegant HTML & CSS project designed to raise awareness for 
 
 ## 🖼️ Preview
 
-![Preview](Jerry.jpg)  
-*A preview image of one of the pets. (Make sure `Assets/Jerry.jpg` exists in your repo.)*
+![Preview](Dog-2.webp)
+![Preview](Cat-2.webp)
+![Preview](Tom.jpg)
+![Preview](Jerry.jpg)
 
 ## 🛠️ Built With
 
@@ -29,8 +31,7 @@ This is a simple and elegant HTML & CSS project designed to raise awareness for 
 ## 🚀 Live Demo
 
 You can view the live demo here:  
-**[Click to Open on GitHub Pages](https://your-username.github.io/pet-adoption-page/)**  
-_(Replace with your actual GitHub Pages link after deployment)_
+**[Click to Open on Pet Adoption Page.](https://er-himanshu-kumar-chaurasiya112.github.io/Pet-Adoption-Page/)**
 
 ## 📂 Project Structure
 
