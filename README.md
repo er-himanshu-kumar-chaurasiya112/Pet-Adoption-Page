@@ -31,7 +31,7 @@ This is a simple and elegant HTML & CSS project designed to raise awareness for 
 ## 🚀 Live Demo
 
 You can view the live demo here:  
-**[Click to Open on Pet Adoption Page.](https://er-himanshu-kumar-chaurasiya112.github.io/Pet-Adoption-Page/)**
+**[Click to Open on Pet Adoption Page.](https://github.com/er-himanshu-kumar-chaurasiya112/Pet-Adoption-Page)**
 
 ## 📂 Project Structure
 
