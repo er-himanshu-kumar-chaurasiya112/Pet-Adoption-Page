@@ -16,7 +16,7 @@ This is a simple and elegant HTML & CSS project designed to raise awareness for 
 
 ## 🖼️ Preview
 
-![Preview](Assets/Jerry.jpg)  
+![Preview](Jerry.jpg)  
 *A preview image of one of the pets. (Make sure `Assets/Jerry.jpg` exists in your repo.)*
 
 ## 🛠️ Built With
